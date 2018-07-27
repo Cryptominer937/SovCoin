@@ -1,9 +1,9 @@
-SOV Core 0.1.2
+SOV Core 1.3
 ===============================
 
 
-https://www.sovproject.org
-
+https://www.sovereigncoin.cc
+https://www.singamining.com
 
 What is SOV?
 ----------------
